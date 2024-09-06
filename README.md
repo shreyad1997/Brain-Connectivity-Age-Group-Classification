@@ -29,3 +29,9 @@ To run this notebook, you'll need to install the following dependencies:
 ## Usage
 
 Run the Jupyter notebook to see the analysis and results. You can find the code in the notebook, which compares different connectivity measures for predicting age groups.
+
+## References
+
+1. Nilearn. (n.d.). Functional connectivity predicts age group. Retrieved from [Nilearn Documentation](https://nilearn.github.io/stable/index.html)
+2. Dadi, K., Rahim, M., Abraham, A., Chyzhyk, D., Milham, M. P., Thirion, B., & Varoquaux, G. (2019). Benchmarking functional connectome-based predictive models for resting-state fMRI. *NeuroImage*, 192, 115-134. doi: [10.1016/j.neuroimage.2019.02.062](https://doi.org/10.1016/j.neuroimage.2019.02.062)
+3. Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825-2830.
