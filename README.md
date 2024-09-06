@@ -1,5 +1,3 @@
-# Brain Connectivity Age-Group Classification
-
 # Brain Connectivity Age Group Classification
 
 This project uses brain imaging data to classify subjects into different age groups based on functional connectivity patterns. The analysis utilizes the Nilearn library and explores various connectivity measures such as correlation, partial correlation, and tangent space embedding.
